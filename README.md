@@ -1,7 +1,7 @@
 <h2> 👨‍💻 Hello World! I'm Victor Badaro.</h2>
 <ul>
 <li>I'm a Full-Stack Web Developer, i'm part of T7 at Driven Education.</li>
-<li>I'm currently searching for new professional experiences.</li>
+<li>I'm currently working.</li>
 <li>Curiosity about me: I graduated in civil engineering at PUC and I like to play games.</li>
 </ul>
 
