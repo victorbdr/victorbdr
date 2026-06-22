@@ -1,31 +1,74 @@
-<h2> 👨‍💻 Hello World! I'm Victor Badaro.</h2>
-<ul>
-<li>I'm a Full-Stack Web Developer, i'm part of T7 at Driven Education.</li>
-<li>I'm currently working.</li>
-<li>Curiosity about me: I graduated in civil engineering at PUC and I like to play games.</li>
-</ul>
+<h1 align="center">Hi there 👋, I'm Victor Badaro</h1>
 
- <h2>📊 Statistics:</h2>
-  <div align="center">
- <br>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorbdr&show_icons=true&theme=radical)
+<h3 align="center">Full Stack Software Engineer | React | TypeScript | Node.js | PostgreSQL | MongoDB | Elasticsearch</h3>
 
+<p align="center">
+Passionate about building scalable web applications, APIs, and data-driven systems.
+</p>
 
-<br>
+---
 
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
- </div>
- 
- <h2>💻 Contact:</h2>
- <div align="center">
- <a href="https://www.linkedin.com/in/victor-badaro-a46611208/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+## 👨‍💻 About Me
+
+* 🚀 Full Stack Software Engineer with 3+ years of professional experience
+* 💻 Specialized in React, TypeScript, Node.js, PostgreSQL, MongoDB, and Elasticsearch
+* 📊 Experienced in building tax compliance and fiscal data platforms (SPED, NF-e, CT-e)
+* 🔍 Strong background in ETL pipelines, search technologies, and data processing
+* 🤖 Daily user of AI-assisted development tools such as ChatGPT and Claude Code
+* 🎓 Civil Engineering graduate from PUC-Rio who transitioned into Software Engineering
+* 🎮 CS2 enthusiast and technology enthusiast
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases & Search
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+<p>
+Elasticsearch • Kibana
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorbdr&show_icons=true&theme=radical" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorbdr&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/victor-badaro/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:victor.ono.badaro@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</div>
+</p>
