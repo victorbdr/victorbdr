@@ -15,7 +15,7 @@ Passionate about building scalable web applications, APIs, and data-driven syste
 * 📊 Experienced in building tax compliance and fiscal data platforms (SPED, NF-e, CT-e)
 * 🔍 Strong background in ETL pipelines, search technologies, and data processing
 * 🤖 Daily user of AI-assisted development tools such as ChatGPT and Claude Code
-* 🎓 Civil Engineering graduate from PUC-Rio who transitioned into Software Engineering
+* 🎓 Civil Engineering graduate from PUC-Campinas who transitioned into Software Engineering
 * 🎮 CS2 enthusiast and technology enthusiast
 
 ---
